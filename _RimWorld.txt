@@ -1,0 +1,99 @@
+@NoPromptForPassword 1
+login anonymous 
+
+// 선행 기능
+workshop_download_item 294100 2009463077 // Harmony
+workshop_download_item 294100 2059725183 // FSharp.Core
+workshop_download_item 294100 3535481557 // 로딩 진행률
+
+// 아이템
+workshop_download_item 294100 3528490718 // 자동 수경재배 / Vanilla
+workshop_download_item 294100 3536424131 // 자동 수경재배 
+workshop_download_item 294100 3486157033 // 편향된 보존식 
+workshop_download_item 294100 3526067333 // Gravship에 도관이 없습니다 
+workshop_download_item 294100 2013476665 // 다용도 기둥 
+workshop_download_item 294100 3535002678 // 원자로 
+workshop_download_item 294100 2897848371 // 정렬된 터빈  
+workshop_download_item 294100 3221592105 // The Cooler 
+//workshop_download_item 294100 3416243474 // [sbz] 깔끔한 보관  
+workshop_download_item 294100 3534893110 // 수리소 
+workshop_download_item 294100 3535995357 // 다양한 크기의 중력 엔진 
+workshop_download_item 294100 2636621800 // 스마트 포탑 커버링  
+workshop_download_item 294100 2558042766 // 현실적인 방 다시 쓰기. 방 요구사항 변경
+workshop_download_item 294100 2631474117 // 약물은 음식이 아닙니다(계속)
+
+// 기능
+workshop_download_item 294100 2023507013 // Vanilla Expanded Framework / Harmony
+//workshop_download_item 294100 3033901359 // Adaptive Storage Framework / Harmony
+workshop_download_item 294100 3521096349 // 빌더트윅스레플리카
+workshop_download_item 294100 3020706506 // Dynamic Trade Interface  / Harmony
+workshop_download_item 294100 3540113822 // 더 나은 스택  / Harmony
+workshop_download_item 294100 3534920369 // 동맹은 도움이 됩니다   / Harmony
+workshop_download_item 294100 3534185281 // 재고에서 빌드 - 계속   / Harmony
+workshop_download_item 294100 3534166729 // New Blueprint  / Harmony
+workshop_download_item 294100 3534230642 // DDI - 심공 드릴 표시기(계속)   / Harmony
+workshop_download_item 294100 3536962819 // 바이오의 전리품 상자 - 사용자 지정 가능한 전리품 및 보상  / Harmony
+workshop_download_item 294100 3234872374 // 더 이상 더러운 것은 없다(계속)   / Harmony
+workshop_download_item 294100 3524414310 // 옵션 거래 계속   / Harmony
+workshop_download_item 294100 3522102833 // 월드빌더   / Harmony
+workshop_download_item 294100 2967053451 // 전원을 끄라고  / Harmony
+workshop_download_item 294100 2583377522 // 무작위 관계 없음   / Harmony
+workshop_download_item 294100 3222285768 // 책 너무 좋아 책 사야지  / Harmony
+workshop_download_item 294100 3273463237 // 저장 리필 히스테리시스   / Harmony
+workshop_download_item 294100 2034171041 // 단일 식물 질감 패치  / Harmony
+workshop_download_item 294100 2562730174 // 보이는 공격대 포인트   / Harmony
+workshop_download_item 294100 1508850027 // 림HUD  / Harmony
+workshop_download_item 294100 2964282061 // 절망적인 로맨스는 없다   / Harmony
+workshop_download_item 294100 2006396200 // 스킬 저하 제거   / Harmony
+workshop_download_item 294100 3538082807 // 휠체어 식사 - 계속   /  
+workshop_download_item 294100 3464549791 // 자동 작업 할당   / Harmony
+//workshop_download_item 294100 3530785055 // 적응형 스토리지 - 글로벌 설정 
+workshop_download_item 294100 2990606008 // AB의 수석 의류 트위커   / Harmony
+workshop_download_item 294100 2160022668 // Change DevSpeed   / Harmony
+workshop_download_item 294100 2870045856 // 내 잘못이 아니야   / Harmony
+workshop_download_item 294100 1633517937 // 나를 위한 레이드  
+workshop_download_item 294100 3232415388 // 간단한 카메라 설정 
+workshop_download_item 294100 1662119905 // 더브스 민트 미니맵 
+workshop_download_item 294100 3221125358 // 착륙 준비(계속) 
+workshop_download_item 294100 2800857642 // Map Preview
+workshop_download_item 294100 2111424996 // Map Designer
+workshop_download_item 294100 1874644848 // Character Editor
+workshop_download_item 294100 3298960397 // Wealth Display (Continued)
+workshop_download_item 294100 3461137081 // Visible Wealth
+workshop_download_item 294100 3408065390 // 크로노스 포인터 - 일정 메뉴 개선 
+workshop_download_item 294100 2259516339 // 더 나은 메시지 배치(계속) 
+workshop_download_item 294100 2599942235 // DragSelect
+workshop_download_item 294100 3506573327 // 유용한 마크 
+workshop_download_item 294100 3252220145 // Quick Area
+workshop_download_item 294100 3328706359 // Deselect Zone
+workshop_download_item 294100 3349675904 // Select Similar
+workshop_download_item 294100 1279012058 // 픽업 및 운반 
+workshop_download_item 294100 2202185773 // 더 스마트한 건설 
+workshop_download_item 294100 3261302741 // 더 스마트한 해체 및 채굴(계속) 
+workshop_download_item 294100 3520167264 // 자동 절단 병충해 - 1.6 
+workshop_download_item 294100 1561769193 // 상식
+workshop_download_item 294100 3503627342 // 그냥 지나가는 나를 무시해
+workshop_download_item 294100 2898411376 // 림프리지: 이제 선반이 추가되었습니다! 
+workshop_download_item 294100 3532462654 // Trade Transport Pod
+workshop_download_item 294100 3531887595 // IceWorld: Ice Fishing
+workshop_download_item 294100 3532289991 // Auto Close Research Popup
+workshop_download_item 294100 3237083444 // 능력 이상 (1.6-b) 
+workshop_download_item 294100 3526354009 // 물건 교체 - 계속
+workshop_download_item 294100 1660622094 //
+workshop_download_item 294100 2695164414 // 다양한 조정 / 1660622094
+workshop_download_item 294100 3232242247 // 수색 및 파괴(계속) 
+workshop_download_item 294100 1446523594 // Dubs Mint Menus
+workshop_download_item 294100 730936602 // 위험! 
+workshop_download_item 294100 2302739121 // [키트] 뜯어먹다 
+workshop_download_item 294100 3278213153 // 알람 제거
+workshop_download_item 294100 3473093099 // 내 CPU를 태우지 마, 섐블러! 
+//workshop_download_item 294100 3531306011 // Boots Sensible Factions
+
+// 번역
+workshop_download_item 294100 3079466972 // Rimworld Mod Korean
+workshop_download_item 294100 3522938185 // 공식번역
+workshop_download_item 294100 1848471817 // [RKTM] Mod
+//workshop_download_item 294100 2874643358 // HanRim
+workshop_download_item 294100 3278005460 // 자동 번역 모드
+workshop_download_item 294100 2142743468 // 개발자 도구 한국어화/한글화
+
